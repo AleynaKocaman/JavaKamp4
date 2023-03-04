@@ -1,0 +1,14 @@
+Rest nedir?
+Rest (Representational State Transfer), web tabanlı yazılımların iletişim kurması için kullanılan bir mimari stilidir. 
+REST, HTTP protokolünü temel alarak, kaynakların tekil tanımlanması, kaynaklara yönelik işlemlerin standardize edilmesi ve temsili durumun (representational state) yönetilmesi prensiplerine dayanır. 
+RESTful API'lar, web servisleri ve mobil uygulamaların da dahil olduğu birçok alanda yaygın olarak kullanılmaktadır.
+
+
+Http Anahtar kelimeleri nelerdir? Açıklayınız
+
+HTTP (Hypertext Transfer Protocol), web tarayıcıları ve sunucular arasında veri alışverişi için kullanılan bir protokoldür. 
+HTTP, kullanıcının isteklerini (request) sunucuya ileterek, sunucunun bu isteği karşılamasını ve isteğe bağlı olarak bir yanıt (response) dönmesini sağlar. 
+HTTP, anahtar kelimeleri arasında GET, POST, PUT, DELETE, HEAD ve OPTIONS gibi metotları içerir. 
+Bu metotlar, bir kaynak üzerinde yapılacak olan işlemleri tanımlarlar. 
+Örneğin, GET metodu, belirtilen kaynağın temsili durumunu sunucudan istemek için kullanılırken,
+POST metodu, belirtilen kaynağa yeni bir öğe eklemek için kullanılır.
